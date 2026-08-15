@@ -5,3 +5,11 @@ languages:
 lessons:
   - name: "Notes"
     directory: notes
+
+lessons:
+  - name: "Notes 1"
+    directory: notes
+
+lessons:
+  - name: "Notes 2"
+    directory: notes
