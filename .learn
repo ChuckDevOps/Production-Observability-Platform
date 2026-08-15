@@ -1,1 +1,7 @@
+---
+languages:
+  - name: python
 
+lessons:
+  - name: "Notes"
+    directory: notes
