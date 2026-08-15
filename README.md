@@ -1,4 +1,4 @@
-# observability-platform
+# Observability-Platform
 
 [![Grafana](https://img.shields.io/badge/Grafana-11.1.0-orange?style=flat-square&logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-v2.53.0-red?style=flat-square&logo=prometheus)](https://prometheus.io/)
