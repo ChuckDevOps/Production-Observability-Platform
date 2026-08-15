@@ -1,5 +1,5 @@
 # TESTING-GUIDE.md
-# observability-platform — Step-by-Step Verification
+# Observability-Platform — Step-by-Step Verification
 
 This is the document to follow when actually running this stack. It's
 separate from the README because the README describes *what the repo is*;
